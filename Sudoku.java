@@ -28,12 +28,12 @@ import solver.*;
  * Generally no need to modify this, there are many abstract and non-abstract
  * classes to customise your implementation.
  */
-public class RmitSudoku
+public class Sudoku
 {
     /**
      * Name of class, used in error messages.
      */
-    protected static final String progName = "RmitSudoku";
+    protected static final String progName = "Sudoku";
 
 
     /**
